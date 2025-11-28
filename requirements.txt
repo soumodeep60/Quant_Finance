@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+scipy
+matplotlib
+yfinance
+# numba   # optional: remove if builder fails on Streamlit Cloud
